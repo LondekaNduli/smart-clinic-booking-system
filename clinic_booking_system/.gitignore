@@ -1,0 +1,6 @@
+myenvironment/
+__pycache__/
+*.pyc
+clinic.db
+.env
+.streamlit/secrets.toml

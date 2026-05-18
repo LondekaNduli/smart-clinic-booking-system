@@ -1,0 +1,51 @@
+Date;Store;Product;Category;Units_Sold;Unit_Price;Revenue;Promotion;Holiday;Temperature;Region
+2023/01/01;Store_A;Laptop;Electronics;18;15000;270000;Yes;No;29;KZN
+2023/01/02;Store_B;Phone;Electronics;35;12000;420000;No;No;31;Gauteng
+2023/01/03;Store_C;TV;Electronics;12;9000;108000;No;No;28;Western Cape
+2023/01/04;Store_D;Headphones;Accessories;60;800;48000;Yes;No;30;Free State
+2023/01/05;Store_E;Keyboard;Accessories;45;650;29250;No;No;27;Limpopo
+2023/01/06;Store_A;Mouse;Accessories;70;400;28000;No;No;26;KZN
+2023/01/07;Store_B;Tablet;Electronics;20;7000;140000;Yes;No;32;Gauteng
+2023/01/08;Store_C;Monitor;Electronics;15;3500;52500;No;No;29;Western Cape
+2023/01/09;Store_D;Smartwatch;Electronics;25;5000;125000;No;No;31;Free State
+2023/01/10;Store_E;Speaker;Accessories;40;1200;48000;Yes;No;28;Limpopo
+2023/01/11;Store_A;Laptop;Electronics;22;15000;330000;No;No;27;KZN
+2023/01/12;Store_B;Phone;Electronics;38;12000;456000;Yes;No;30;Gauteng
+2023/01/13;Store_C;TV;Electronics;10;9000;90000;No;No;25;Western Cape
+2023/01/14;Store_D;Headphones;Accessories;75;800;60000;Yes;No;33;Free State
+2023/01/15;Store_E;Keyboard;Accessories;48;650;31200;No;No;29;Limpopo
+2023/01/16;Store_A;Mouse;Accessories;82;400;32800;No;No;28;KZN
+2023/01/17;Store_B;Tablet;Electronics;24;7000;168000;Yes;No;30;Gauteng
+2023/01/18;Store_C;Monitor;Electronics;18;3500;63000;No;No;27;Western Cape
+2023/01/19;Store_D;Smartwatch;Electronics;28;5000;140000;No;No;34;Free State
+2023/01/20;Store_E;Speaker;Accessories;42;1200;50400;Yes;No;31;Limpopo
+2023/01/21;Store_A;Laptop;Electronics;26;15000;390000;Yes;No;29;KZN
+2023/01/22;Store_B;Phone;Electronics;40;12000;480000;No;No;33;Gauteng
+2023/01/23;Store_C;TV;Electronics;14;9000;126000;Yes;No;26;Western Cape
+2023/01/24;Store_D;Headphones;Accessories;80;800;64000;No;No;35;Free State
+2023/01/25;Store_E;Keyboard;Accessories;50;650;32500;Yes;No;30;Limpopo
+2023/01/26;Store_A;Mouse;Accessories;85;400;34000;No;No;27;KZN
+2023/01/27;Store_B;Tablet;Electronics;30;7000;210000;Yes;No;32;Gauteng
+2023/01/28;Store_C;Monitor;Electronics;20;3500;70000;No;No;28;Western Cape
+2023/01/29;Store_D;Smartwatch;Electronics;32;5000;160000;Yes;No;36;Free State
+2023/01/30;Store_E;Speaker;Accessories;45;1200;54000;No;No;31;Limpopo
+2023/01/31;Store_A;Laptop;Electronics;28;15000;420000;Yes;No;30;KZN
+2023/02/01;Store_B;Phone;Electronics;42;12000;504000;No;No;29;Gauteng
+2023/02/02;Store_C;TV;Electronics;16;9000;144000;Yes;No;27;Western Cape
+2023/02/03;Store_D;Headphones;Accessories;88;800;70400;No;No;34;Free State
+2023/02/04;Store_E;Keyboard;Accessories;52;650;33800;Yes;No;29;Limpopo
+2023/02/05;Store_A;Mouse;Accessories;90;400;36000;No;No;28;KZN
+2023/02/06;Store_B;Tablet;Electronics;34;7000;238000;Yes;No;31;Gauteng
+2023/02/07;Store_C;Monitor;Electronics;24;3500;84000;No;No;26;Western Cape
+2023/02/08;Store_D;Smartwatch;Electronics;36;5000;180000;Yes;No;35;Free State
+2023/02/09;Store_E;Speaker;Accessories;50;1200;60000;No;No;30;Limpopo
+2023/02/10;Store_A;Laptop;Electronics;30;15000;450000;Yes;No;32;KZN
+2023/02/11;Store_B;Phone;Electronics;45;12000;540000;No;No;33;Gauteng
+2023/02/12;Store_C;TV;Electronics;18;9000;162000;Yes;No;28;Western Cape
+2023/02/13;Store_D;Headphones;Accessories;92;800;73600;No;No;36;Free State
+2023/02/14;Store_E;Keyboard;Accessories;55;650;35750;Yes;Yes;31;Limpopo
+2023/02/15;Store_A;Mouse;Accessories;95;400;38000;No;No;29;KZN
+2023/02/16;Store_B;Tablet;Electronics;36;7000;252000;Yes;No;34;Gauteng
+2023/02/17;Store_C;Monitor;Electronics;26;3500;91000;No;No;27;Western Cape
+2023/02/18;Store_D;Smartwatch;Electronics;40;5000;200000;Yes;No;37;Free State
+2023/02/19;Store_E;Speaker;Accessories;55;1200;66000;No;No;32;Limpopo
