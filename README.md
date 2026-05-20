@@ -21,7 +21,7 @@ Clone the repository:
 git clone https://github.com/LondekaNduli/smart-clinic-booking-system.git
 
 Install dependencies:
-
 pip install -r requirements.txt
+
 Run the app:
-streamlit run yourfilename.py
+streamlit run clinic_booking_systemdash.py
